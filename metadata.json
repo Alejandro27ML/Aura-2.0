@@ -1,0 +1,5 @@
+{
+  "name": "Aura Wellness",
+  "description": "A comprehensive wellness application for tracking health metrics, meditation, and personal growth.",
+  "requestFramePermissions": ["geolocation"]
+}
